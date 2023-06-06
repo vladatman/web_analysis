@@ -1,0 +1,8 @@
+176.9.147.127 - - [02/Jun/2023:14:21:22 +0000] "GET /index.html HTTP/1.1" 200 4310 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36"
+176.9.147.96 - - [02/Jun/2023:14:24:38 +0000] "POST /contact-form HTTP/1.1" 200 2000 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36"
+151.101.255.255 - - [02/Jun/2023:14:27:43 +0000] "GET /products.html HTTP/1.1" 200 6000 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36"
+140.82.112.5 - - [02/Jun/2023:14:30:00 +0000] "GET / HTTP/1.1" 200 3500 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_1 like Mac OS X) AppleWebKit/604.4.7 (KHTML, like Gecko) Version/11.0 Mobile/15C153 Safari/604.1"
+104.16.0.16 - - [02/Jun/2023:14:32:12 +0000] "GET /faq.html HTTP/1.1" 200 4000 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36"
+212.42.74.5 - - [02/Jun/2023:14:35:25 +0000] "GET /robots.txt HTTP/1.1" 200 567 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+104.16.12.5 - - [02/Jun/2023:14:36:50 +0000] "GET /sitemap.xml HTTP/1.1" 200 1234 "-" "Mozilla/5.0 (compatible; Bingbot/2.0; +http://www.bing.com/bingbot.htm)"
+
